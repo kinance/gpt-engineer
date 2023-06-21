@@ -28,6 +28,7 @@ For **stable** release:
 - `pip install gpt-engineer`
 
 For **development**:
+- `sudo apt install make`
 - `git clone git@github.com:AntonOsika/gpt-engineer.git`
 - `cd gpt-engineer`
 - `make install`
